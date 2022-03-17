@@ -8,3 +8,5 @@ as2
 Enviando a 
 funcionalidade
 X do novo projeto/branch
+
+Enviando a funcionalidade B do repo 1
