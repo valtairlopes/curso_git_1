@@ -10,3 +10,5 @@ a
 funcionalidades B
 no branch B porque o a
 estava com problema
+
+Enviando a nova funcionalidades aplicada na B
